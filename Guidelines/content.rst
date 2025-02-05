@@ -3,7 +3,7 @@ Content
 
 Accepted Content Guidelines
 +++++++++++++++++++++++++++
-
+Nuevo cambio
 
 Making Suggestions
 ++++++++++++++++++
